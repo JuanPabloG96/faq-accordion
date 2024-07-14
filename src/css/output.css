@@ -678,6 +678,10 @@ video {
   font-weight: 700;
 }
 
+.font-extrabold {
+  font-weight: 800;
+}
+
 .text-dark-purple {
   --tw-text-opacity: 1;
   color: hsl(292 42% 14% / var(--tw-text-opacity));
